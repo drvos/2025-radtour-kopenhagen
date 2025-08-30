@@ -33,11 +33,33 @@ Frankfurt/Main
    In Godelheim verlassen wir die Weser und fahren zu einem kurzen Abstecher nach Paderborn.
    Hierfür ist es wichtig in Beverungen auf die linke Weserseite zu wechseln.
 
-- *Hellweg-Route* [Hell] __Kilometer 338 - 408__
-
+- *Hellweg-Route* [Hell] __Kilometer 338 - 415__
 
 Paderborn
 =========
+   
+   Von Paderborn über den Senne-Radweg nach Pivitsheide. Dort auf den Werre-Radweg um wieder an die Weser zu kommen. 
+
+- *Werre-Radweg* [Werre] __Kilometer 455 - 505__
+
+   In Bad Oeynhausen geht es wieder auf den Weserradweg auf dem wir bis Bremen bleiben.
+
+- *Weserradweg* [Weser] __Kilometer 505 - 685__ 
+
+Bremen
+======
+
+   Weiter auf dem D7 oder auch HH-HB Radweg bis nach Hamburg.
+
+- *Radfernweg Hamburg-Bremen* [HH-HB] __685 - 835__ 
+
+
+Puttgarden/Rødby
+================
+
+Kopenhagen
+==========
+
 
 ## Weblinks
 
