@@ -24,7 +24,7 @@ Frankfurt/Main
    
    Ab Höchst geht es auf den Vulkanradweg bis nach Schlitz
 
-- *Romatische Straße* [D9] __Kilometer 130 - 276__
+- *Romantische Straße* [D9] __Kilometer 130 - 276__
    
    Ab Schlitz geht es auf dem Radweg D9 bis nach Hann. Münden zum Beginn des Weserradwegs.
 
