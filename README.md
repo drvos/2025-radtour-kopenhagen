@@ -5,8 +5,7 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
 - [Frankfurt/Main - Kopenhagen](https://bkrtr.de/2cOzM)
 
-Frankfurt/Main
-==============
+## Frankfurt/Main
 
 - *Mainradweg* [Main] __Kilometer 0 - 15__
 
@@ -35,8 +34,7 @@ Frankfurt/Main
 
 - *Hellweg-Route* [Hell] __Kilometer 338 - 415__
 
-Paderborn
-=========
+## Paderborn
    
    Von Paderborn über den Senne-Radweg nach Pivitsheide. Dort auf den Werre-Radweg um wieder an die Weser zu kommen. 
 
@@ -46,20 +44,18 @@ Paderborn
 
 - *Weserradweg* [Weser] __Kilometer 505 - 685__ 
 
-Bremen
-======
+## Bremen
 
-   Weiter auf dem D7 oder auch HH-HB Radweg bis nach Hamburg.
+   Ab Bremen geht es auf dem Radfernweg Hamburg-Bremen bis nach Hamburg.
 
 - *Radfernweg Hamburg-Bremen* [HH-HB] __685 - 835__ 
 
 
-Puttgarden/Rødby
-================
+## Puttgarden/Rødby
 
-Kopenhagen
-==========
+## Kopenhagen
 
+---
 
 ## Weblinks
 
