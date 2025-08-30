@@ -64,3 +64,7 @@ Kopenhagen
 ## Weblinks
 
 - [Waymarked Trails](https://cycling.waymarkedtrails.org/#)
+
+### Radwege
+
+- [![Radfernweg Hamburg-Bremen](Radwege/Radfernweg-HH-HB.png)](https://www.nordwaerts.de/aktiv-entspannt/radfahren/radfernweg-hamburg-bremen/ "Radfernweg Hamburg-Bremen")
