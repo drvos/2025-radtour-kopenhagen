@@ -46,9 +46,9 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
 ## Bremen
 
-   Ab Bremen geht es auf dem [Radfernweg Hamburg-Bremen](#Radwege) bis nach Hamburg.
+   Ab Bremen geht es auf dem [Radfernweg Hamburg-Bremen](#Radfernweg Hamburg-Bremen) bis nach Hamburg.
 
-- *Radfernweg Hamburg-Bremen* [HH-HB] __685 - 835__ 
+- *[Radfernweg Hamburg-Bremen](#Radfernweg Hamburg-Bremen)* [HH-HB] __685 - 835__ 
 
 
 ## Puttgarden/Rødby
@@ -63,4 +63,6 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
 ### Radwege
 
-- [![Radfernweg Hamburg-Bremen](Radwege/Radfernweg-HH-HB.png)](https://www.nordwaerts.de/aktiv-entspannt/radfahren/radfernweg-hamburg-bremen/ "Radfernweg Hamburg-Bremen")
+#### Radfernweg Hamburg-Bremen
+
+   <a href="https://www.nordwaerts.de/aktiv-entspannt/radfahren/radfernweg-hamburg-bremen/"><img src="Radwege/Radfernweg-HH-HB.png" alt="Radfernweg Hamburg-Bremen" width="150" height="150"></a>
