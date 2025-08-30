@@ -53,6 +53,9 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
    In Hamburg an der Elbe südwärts bis nach Lauenburg und ab dort Richtung Norden. Das alles entlang des 
    [Radweg Hamburg-Rügen](#Radweg-Hamburg-Rügen) bis nach Mölln.
 
+- *Radweg Hamburg-Rügen* [HH-Rü] __835 - xxx__
+
+
 ## Puttgarden/Rødby
 
 ## Kopenhagen
