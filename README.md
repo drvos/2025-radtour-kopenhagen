@@ -3,7 +3,7 @@
 
 Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
-- [Teil 1 - Frankfurt/Main - Paderborn](https://bkrtr.de/hEQ2e)
+- [Frankfurt/Main - Kopenhagen](https://bkrtr.de/2cOzM)
 
 Frankfurt/Main
 ==============
