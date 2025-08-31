@@ -3,7 +3,7 @@
 
 Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
-- [Frankfurt/Main - Kopenhagen](https://bkrtr.de/2cOzM)
+- [Frankfurt/Main - Kopenhagen](https://www.komoot.com/de-de/tour/2539555572?share_token=aPtEt3g1qoipw9Y69XkrYmzSWoIHtXozuVk2H17zkEG9gl4z3k&ref=wtd)
 
 ## Frankfurt/Main
 
