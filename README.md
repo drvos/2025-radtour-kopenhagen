@@ -1,5 +1,5 @@
 [modeline]: # ( vim: set fenc=utf-8 filetype=markdown ts=3 sts=3 sw=3 expandtab: )
-# 2024 Radtour Frankfurt/Main -> Kopenhagen
+# 2025 Radtour Frankfurt/Main -> Kopenhagen
 
 Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
