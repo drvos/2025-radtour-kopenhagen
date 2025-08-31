@@ -28,6 +28,8 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
    In Godelheim verlassen wir die [Weser](#Weserradweg) und fahren zu einem kurzen Abstecher nach Paderborn.  
    Hierfür ist es wichtig spätestens in Beverungen auf die linke Weserseite zu wechseln.
 
+   [Roadbook](roadbook/frankfurt-paderborn.md)
+
 ## Paderborn [km 420]
    
    Von Paderborn über den [Senne-Radweg](#Senne-Radweg) nach Horn.  
@@ -39,8 +41,6 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 ## Bremen [km 690]
 
    Ab Bremen geht es auf dem [Radfernweg Hamburg-Bremen](#Radfernweg-Hamburg-Bremen) bis nach Hamburg.
-
-## Hamburg [km 840]
 
    In Hamburg an der Elbe südwärts bis nach Lauenburg/Elbe und ab dort Richtung Norden. Das alles entlang des 
    [Radweg Hamburg-Rügen](#Radweg-Hamburg-Rügen) bis nach Mölln.
@@ -61,6 +61,10 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 ## Kopenhagen [km 1.300]
 
 ---
+
+## Roadbook
+
+- [Frankfurt/Main -> Paderborn](roadbook/frankfurt-paderborn.md)
 
 ## Weblinks
 
