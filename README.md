@@ -70,21 +70,75 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
 #### Mainradweg
 
+   <a href="https://de.wikipedia.org/wiki/Main-Radweg">
+
+   <img src="assets/images/main-radweg.png" alt="Mainradweg" width="150" height="150">
+
+   </a>
+
 #### Hessischer-Radfernweg
+
+   <a href="https://de.wikipedia.org/wiki/Hessischer_Radfernweg_R3">
+
+   <img src="assets/images/hessischer-radfernweg-r3.png" alt="Hessischer Radfernweg R3" width="150" height="150">
+
+   </a>
 
 #### Bahnradweg-Hessen
 
+   <a href="https://de.wikipedia.org/wiki/Bahnradweg_Hessen">
+
+   <img src="assets/images/bahnradweg-hessen.png" alt="Bahnradweg Hessen" width="150" height="150">
+
+   </a>
+
 #### Vulkanradweg
 
-#### Romantische-Straße
+   <a href="https://de.wikipedia.org/wiki/Vulkanradweg">
+
+   <img src="assets/images/vulkanradweg.png" alt="Vulkanradweg" width="150" height="150">
+
+   </a>
+
+#### Fuldaradweg
+
+   <a href="https://www.fuldaradweg-r1.de/">
+
+   <img src="assets/images/fuldaradweg-r1.png" alt="Fuldaradweg" width="150" height="150">
+
+   </a>
 
 #### Weserradweg
 
+   <a href="https://de.wikipedia.org/wiki/Weser-Radweg">
+
+   <img src="assets/images/weserradweg.jpg" alt="Weserradweg" width="150" height="150">
+
+   </a>
+
 #### Senne-Radweg
+
+   <a href="http://www.senneradweg.de/de/index.php">
+
+   <img src="assets/images/senne-radweg.png" alt="Senne-Radweg" width="150" height="150">
+
+   </a>
 
 #### Hellweg-Route
 
+   <a href="https://de.wikipedia.org/wiki/Hellweg-Route">
+
+   <img src="assets/images/hellwegroute.jpg" alt="Hellweg-Route" width="150" height="150">
+
+   </a>
+
 #### Werre-Radweg
+
+   <a href="https://www.fahr-im-kreis.de/alle-touren/themenrouten/werre-radweg">
+
+   <img src="assets/images/werreradweg.png" alt="Werre-Radweg" width="150" height="150">
+
+   </a>
 
 #### Radfernweg-Hamburg-Bremen
 
@@ -101,4 +155,24 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
    <img src="assets/images/radweg-hamburg-ruegen.png" alt="Radweg Hamburg-Rügen" width="150" height="150">
 
    </a>
+
+#### Elbe-Lübeck-Kanal
+
+#### Ostseeküstenroute
+
+   <a href="https://de.wikipedia.org/wiki/Ostseek%C3%BCstenroute_%28D2%29">
+
+   <img src="assets/images/ostseekuesten-radweg.png" alt="" width="150" height="150">
+   
+   </a>
+
+   <a href="https://de.wikipedia.org/wiki/Ostseek%C3%BCsten-Route_%28EV10%29">EuroVelo 10</a>
+
+#### Sjællands-Odde-Rødbyhavn
+
+<a href="https://ruter.dk/route/sjaellands-odde-roedbyhavn">National Cycle Route 7</a>
+
+#### Køge-Præstø-Vordingborg
+
+
 
