@@ -5,60 +5,55 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
 - [Frankfurt/Main - Kopenhagen](https://www.komoot.com/de-de/tour/2539555572?share_token=aPtEt3g1qoipw9Y69XkrYmzSWoIHtXozuVk2H17zkEG9gl4z3k&ref=wtd)
 
-## Frankfurt/Main
+## Frankfurt/Main [km 0]
 
-- *Mainradweg* [Main] __0 - 15__
+   Auf dem [Mainradweg](#Mainradweg) bis nach Rumpenheim -> Fähre auf das linke Mainufer.
 
-   Auf dem [Mainradweg](#Mainradweg) bis nach Rumpenheim -> Fähre auf das linke Mainufer
+   Links des Mains auf dem [R3](#Hessischer-Radfernweg) bis nach Kesselstadt.
 
-- *Hessischer Radfernweg* [R3] __15 - 22__
+   Weiter auf dem [Bahnradweg Hessen](#Bahnradweg-Hessen) über Mittelbuchen, Windecken, Eichen bis nach Altenstadt.
+
+   Ab Altenstadt geht es auf den [Vulkanradweg](#Vulkanradweg) bis nach Schlitz.  
+   Nach 88 km erreichen wir in Hartmannshain den höchsten Punkt des Vulkanradwegs und der gesamten Tour.  
+   Am Zusammenfluss von Schlitz und Fulda geht es weiter auf dem [Fuldaradweg](#Fuldaradweg).
+
+   Ab Schlitz geht es auf dem [Fuldaradweg](#Fuldaradweg) bis nach Hann. Münden zum Beginn des [Weserradwegs](#Weserradweg).  
+   Kilometer 287, am Weserstein beginnt die Weser und unsere Reise am [Weserradweg](#Weserradweg).
+
+   In Godelheim verlassen wir die [Weser](#Weserradweg) und fahren zu einem kurzen Abstecher nach Paderborn.  
+   Hierfür ist es wichtig spätestens in Beverungen auf die linke Weserseite zu wechseln.
+
+## Paderborn [km 420]
    
-   Auf dem [R3](#Hessischer-Radfernweg) bis nach Kesselstadt
+   Von Paderborn über den [Senne-Radweg](#Senne-Radweg) nach Horn.  
+   Dort auf den [Werre-Radweg](#Werre-Radweg) um wieder an die [Weser](#Weserradweg) zu kommen.  
+   Dabei geht es durch Detmold, Lage, Herford, Bad Oeynhausen bis zum Werre-Weser-Kuss.
 
-- *Bahnradweg Hessen* [BRW] __22 - 45__
-   
-   Auf dem [Bahnradweg Hessen](#Bahnradweg-Hessen) über Mittelbuchen, Windecken, Eichen bis nach Höchst
+   Am Werre-Weser-Kuss geht es wieder auf den [Weserradweg](#Weserradweg) auf dem wir bis Bremen bleiben.
 
-- *Vulkanradweg* [Vul] __45 - 130__
-   
-   Ab Höchst geht es auf den [Vulkanradweg](#Vulkanradweg) bis nach Schlitz
-
-- *Romantische Straße* [D9] __130 - 276__
-   
-   Ab Schlitz geht es auf dem Radweg [D9](#Romantische-Straße) bis nach Hann. Münden zum Beginn des [Weserradwegs](#Weserradweg).
-
-- *Weserradweg* [Weser] __276 - 338__
-   
-   In Godelheim verlassen wir die [Weserradweg](#Weserradweg) und fahren zu einem kurzen Abstecher nach Paderborn.
-   Hierfür ist es wichtig in Beverungen auf die linke Weserseite zu wechseln.
-
-- *Hellweg-Route* [Hell] __338 - 415__
-
-## Paderborn
-   
-   Von Paderborn über den [Senne-Radweg](#Senne-Radweg) nach Pivitsheide. Dort auf den [Werre-Radweg](#Werre-Radweg) um wieder an die Weser zu kommen. 
-
-- *Werre-Radweg* [Werre] __455 - 505__
-
-   In Bad Oeynhausen geht es wieder auf den [Weserradweg](#Weserradweg) auf dem wir bis Bremen bleiben.
-
-- *Weserradweg* [Weser] __505 - 685__ 
-
-## Bremen
+## Bremen [km 690]
 
    Ab Bremen geht es auf dem [Radfernweg Hamburg-Bremen](#Radfernweg-Hamburg-Bremen) bis nach Hamburg.
 
-- *Radfernweg Hamburg-Bremen* [HH-HB] __685 - 835__ 
+## Hamburg [km 840]
 
-   In Hamburg an der Elbe südwärts bis nach Lauenburg und ab dort Richtung Norden. Das alles entlang des 
+   In Hamburg an der Elbe südwärts bis nach Lauenburg/Elbe und ab dort Richtung Norden. Das alles entlang des 
    [Radweg Hamburg-Rügen](#Radweg-Hamburg-Rügen) bis nach Mölln.
 
-- *Radweg Hamburg-Rügen* [HH-Rü] __835 - xxx__
+   Von Mölln folgen wir dem [Elbe-Lübeck-Kanal](#Elbe-Lübeck-Kanal) bis nach Lübeck.  
+   Am Holstentor vorbei zur Trave und an dieser bis nach Travemünde.
 
+   In Travemünde treffen wir auf die [Ostseeküstenroute D2](#Ostseeküstenroute).  
+   Auf diesem fahren wir bis nach Puttgarden.
 
-## Puttgarden/Rødby
+## Puttgarden/Rødby [km 1.095/km 1.115]
 
-## Kopenhagen
+   Auf der dänischen Seite angekommen - in Rødbyhavn - folgen wir der [Nationalen Fahrradroute 7](#Sjællands-Odde-Rødbyhavn) bis nach Vordingborg.
+   Von dort geht es weiter auf dem Radweg [Køge - Præstø - Vordingborg](#Køge-Præstø-Vordingborg).  
+   In Køge angekommen, geht es die letzten Kilometer auf dem [EuroVelo 10 - Ostseeküstenradweg](#Ostseeküstenroute)  
+   bis nach Kopenhagen.
+
+## Kopenhagen [km 1.300]
 
 ---
 
