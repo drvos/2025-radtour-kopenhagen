@@ -64,11 +64,7 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
 ## Roadbook
 
-- [Frankfurt/Main -> Kassel](roadbook/01-frankfurt-kassel.md)
-- [Kassel -> Paderborn](roadbook/02-kassel-paderborn.md)
-- [Paderborn -> Bremen](roadbook/03-paderborn-bremen.md)
-- [Bremen -> Lübeck](roadbook/04-bremen-lübeck.md)
-- [Lübeck -> Kopenhagen](roadbook/05-lübeck-kopenhagen.md)
+- [Frankfurt/Main -> Kopenhagen](roadbook/frankfurt-kopenhagen.md)
 
 ## Weblinks
 
