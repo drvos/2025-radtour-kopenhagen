@@ -4,11 +4,13 @@
 SOURCES := $(filter-out README.md,$(wildcard *.md))
 PDFDIR  := pdf
 PDFS    := $(patsubst %.md,$(PDFDIR)/%.pdf,$(SOURCES))
+MERGED  := $(PDFDIR)/_ALL.pdf
+NUP4    := $(PDFDIR)/_ALL-4up-A4.pdf
 
 # Standardziel
-.DEFAULT_GOAL := all
+.DEFAULT_GOAL := 4up
 
-.PHONY: all clean
+.PHONY: all clean 4up merge
 
 # Baue alle PDFs
 all: $(PDFS)
@@ -31,3 +33,12 @@ $(PDFS): $(EXTRA_DEPS)
 clean:
 	@rm -rf $(PDFDIR)
 
+# Für Druck alle zusammenfassen
+merge: $(MERGED)
+$(MERGED): $(PDFS) | $(PDFDIR)
+	@pdfunite $(PDFS) $(MERGED)
+
+# und auf A4 verteilen
+4up: $(NUP4)
+$(NUP4): $(MERGED)
+	pdfjam $< --nup 2x2 --paper a4paper --outfile $@
