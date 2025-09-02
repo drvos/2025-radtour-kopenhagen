@@ -64,11 +64,10 @@ Notizen und Planung für die Radtour Frankfurt -> Kopenhagen
 
 ## Roadbook
 
-- [Frankfurt/Main -> Paderborn](roadbook/01-frankfurt-paderborn.md)
-- [Paderborn -> Bremen](roadbook/02-paderborn-bremen.md)
-- [Bremen -> Lübeck](roadbook/03-bremen-lübeck.md)
-
-```pandoc 01-frankfurt-paderborn.md -o 01-frankfurt-paderborn.pdf --pdf-engine=lualatex```
+- [Frankfurt/Main -> Kassel](roadbook/01-frankfurt-kassel.md)
+- [Kassel -> Paderborn](roadbook/02-kassel-paderborn.md)
+- [Paderborn -> Bremen](roadbook/03-paderborn-bremen.md)
+- [Bremen -> Lübeck](roadbook/04-bremen-lübeck.md)
 
 ## Weblinks
 
