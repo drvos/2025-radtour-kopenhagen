@@ -1,0 +1,30 @@
+% preamble.tex
+% === Schriften & Mikrotypografie ===
+\usepackage{fontspec}    % lualatex
+\usepackage{microtype}
+
+% Grundschriftgröße (robust, unabhängig von Klassenoptionen)
+\usepackage{anyfontsize}
+\AtBeginDocument{\fontsize{9pt}{10.8pt}\selectfont} % 1.2× Zeilenabstand
+
+% === KOMA-Script: Überschriftenabstände/-schriften ===
+\RedeclareSectionCommand[beforeskip=6pt,afterskip=2pt]{section}
+\RedeclareSectionCommand[beforeskip=4pt,afterskip=1pt]{subsection}
+
+\setkomafont{section}{\bfseries\fontsize{10pt}{12pt}\selectfont}
+\setkomafont{subsection}{\bfseries\fontsize{9.5pt}{11pt}\selectfont}
+
+% Optional: etwas mehr Wortzwischenraum-Toleranz bei schmalen Rändern
+\emergencystretch=1em
+
+% --- Optionaler Seitenrahmen (auskommentiert lassen, wenn nicht gewünscht) ---
+% \usepackage{tikz}
+% \AddToHook{shipout/foreground}{%
+%   \begin{tikzpicture}[remember picture,overlay]
+%     \draw[line width=0.7pt,rounded corners=2pt,draw=black]
+%       ([xshift=2mm,yshift=-2mm]current page.north west)
+%         rectangle
+%       ([xshift=-2mm,yshift=2mm]current page.south east);
+%   \end{tikzpicture}%
+% }
+
