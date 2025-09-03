@@ -13,7 +13,7 @@ variables:
     - bottom=6mm
     - heightrounded
     - showframe
-    - includefoot
+#    - includefoot
   lang: de-DE
   mainfont: "Noto Sans"
   monofont: "Noto Sans Mono"
